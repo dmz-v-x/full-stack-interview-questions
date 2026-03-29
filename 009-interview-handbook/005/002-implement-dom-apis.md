@@ -1,4 +1,0 @@
-implement
-
-document.getElementByClassName
-document.getElementsByTagName

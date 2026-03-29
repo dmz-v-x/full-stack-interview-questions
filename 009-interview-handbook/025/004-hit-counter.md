@@ -1,1 +1,0 @@
-You want to log the number of hits to a site. Implement two functions, log_hit() which gets called when a hit is registered, and get_hits_in_last_five_minutes() which returns the total number of hits in the last five minutes.
